@@ -1,0 +1,16 @@
+C:\Users\al.skachkov25g\source\repos\TransportMVC\TransportMVC\bin\Debug\net5.0\TransportMVC.exe
+C:\Users\al.skachkov25g\source\repos\TransportMVC\TransportMVC\bin\Debug\net5.0\TransportMVC.deps.json
+C:\Users\al.skachkov25g\source\repos\TransportMVC\TransportMVC\bin\Debug\net5.0\TransportMVC.runtimeconfig.json
+C:\Users\al.skachkov25g\source\repos\TransportMVC\TransportMVC\bin\Debug\net5.0\TransportMVC.runtimeconfig.dev.json
+C:\Users\al.skachkov25g\source\repos\TransportMVC\TransportMVC\bin\Debug\net5.0\TransportMVC.dll
+C:\Users\al.skachkov25g\source\repos\TransportMVC\TransportMVC\bin\Debug\net5.0\ref\TransportMVC.dll
+C:\Users\al.skachkov25g\source\repos\TransportMVC\TransportMVC\bin\Debug\net5.0\TransportMVC.pdb
+C:\Users\al.skachkov25g\source\repos\TransportMVC\TransportMVC\obj\Debug\net5.0\TransportMVC.csproj.AssemblyReference.cache
+C:\Users\al.skachkov25g\source\repos\TransportMVC\TransportMVC\obj\Debug\net5.0\TransportMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al.skachkov25g\source\repos\TransportMVC\TransportMVC\obj\Debug\net5.0\TransportMVC.AssemblyInfoInputs.cache
+C:\Users\al.skachkov25g\source\repos\TransportMVC\TransportMVC\obj\Debug\net5.0\TransportMVC.AssemblyInfo.cs
+C:\Users\al.skachkov25g\source\repos\TransportMVC\TransportMVC\obj\Debug\net5.0\TransportMVC.csproj.CoreCompileInputs.cache
+C:\Users\al.skachkov25g\source\repos\TransportMVC\TransportMVC\obj\Debug\net5.0\TransportMVC.dll
+C:\Users\al.skachkov25g\source\repos\TransportMVC\TransportMVC\obj\Debug\net5.0\ref\TransportMVC.dll
+C:\Users\al.skachkov25g\source\repos\TransportMVC\TransportMVC\obj\Debug\net5.0\TransportMVC.pdb
+C:\Users\al.skachkov25g\source\repos\TransportMVC\TransportMVC\obj\Debug\net5.0\TransportMVC.genruntimeconfig.cache
